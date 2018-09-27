@@ -3,13 +3,13 @@ Name:
 
 #### Q1: What are the “Combined” fields referring to? How do you think this information may affect our analyses?
 
-Q1 Response Here (<100 words)
+Q1 The public datasets must meet the standards for aggregating and anonymizing customer data pursuant to CPUC Decision 14-05-016, as follows:  a minimum of 100 Residential customers; a minimum of 15 Non-Residential customers, with no single Non-Residential customer in each sector accounting for more than 15% of the total consumption.  If the aggregation standard is not met, the consumption will be combined with a neighboring ZIP code until the aggregation requirements are met. This will mean that the zip code might not correspond exactly to its actual customers. The data will be from a wider area.
 
 
 
 #### Q2: Why are the “Average” fields likely not useful for our analyses?
 
-Q2 Response Here (<100 words)
+Q2 Due to the customer composition of each postal code and the definite difference in usage between different types of customers, the 'Average' field will not give a good indicator. 
 
 
 
