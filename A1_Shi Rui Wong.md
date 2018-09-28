@@ -21,25 +21,27 @@ Q3 Response Here (<100 words)
 
 #### Q4: What is the total KBTU combined electricity and gas consumption in PG&E territory in 2017? What is the average annual electricity consumption per customer, and average annual gas consumption per customer?
 
-Q4 Response Here (<100 words)
+Q4 5.32306E+11KBTU. Avr annual electricity per customer is 55861.27422 KBTU average annual gas consumption is 52486.3199 KBTU.
+
+
 
 
 
 #### Q5: How would you explain the results of this chart to an average property owner in Northern California? What would be the value of conducting further "seasonal" analyses of energy use, compared to "year-long" analyses, and how would you define seasonal boundaries?
 
-Q5 Response Here (<250 words)
+Q5 Gas consumption increases in colder seasons. Electricity consumption while to a lesser extent goes in the opposite way. Seasonal analysis would give greater accuracy due to the differences in consumption patterns as opposed to year-long analyses, which might be skewed by the various peaks of consumption patterns. I would define the seasonal boundaries by 3 sets perhaps, the colder, Nov-Feb, the the warming, Mar-Jun and the cooling Jul-Oct. 
 
 
 
 #### Q6: Explain your choice of formula for "avgkbtu".
 
-Q6 Response Here (<100 words)
+Q6 Divided totalkbtu by totalcustomers, multiplied by 12 to account for double-counting customers across 12 months in totalcustomers.
 
 
 
 #### Q7 Paste a publicly viewable link to your Slides.
 
-Q7 Response Here
+Q7 https://docs.google.com/presentation/d/1UMLJbgXY5KmQrfIEI4T3-gbQ7pdElxSKZCIspQGdqc0/edit?usp=sharing
 
 
 
