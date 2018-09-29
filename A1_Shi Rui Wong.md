@@ -49,7 +49,7 @@ Q7 https://docs.google.com/presentation/d/1UMLJbgXY5KmQrfIEI4T3-gbQ7pdElxSKZCIsp
 
 Q8 The total consumption of electricity in 94305 is similar to my expectations as it is a school area that while classified as residential, does not have a siginificant population density. This is as opposed to a city area like the vicinity of San Jose.
 
-The average consumption of electricity per customer is unsurprising in terms of the Palo Alto vicinity as most customer would be of a similar demographic (student, academics) as opposed to the sparsely populated areas such as the parks and reserves where likely customers would be a managing company/agency. 
+The average consumption of electricity per customer is unsurprising in terms of the Palo Alto vicinity as most customers would be of a similar demographic (student, academics) as opposed to the sparsely populated areas such as the parks and reserves where likely customers would be a managing company/agency. 
 
 
 
