@@ -61,7 +61,7 @@ Q9 It is interesting to see how the numbers in an excel file can be visually dis
 
 #### Q10 How would you compare the experienced or apparent work involved, as well as the usefulness of the outcome, of Pass One vs. Pass Two? How would you rate the difficulty of this assignment?
 
-Q10 
+Q10 I think Pass One has a higher chance of calculation error along the way as opposed to Pass two even though i did not do pass two by myself (design the R), mainly due to the amount of human effort needed to move things around in excel. The ArcMaps portion is relatively manageable. I would rate say the assignment was difficult for me as I have not used excel in a long time.
 
 
 
@@ -75,4 +75,4 @@ Part 3: Readings: _ minutes
 
 Part 4: Practice Data Dive: Pass 1: 4 hours
 
-Part 4: Practice Data Dive: Pass 2: _ minutes
+Part 4: Practice Data Dive: Pass 2: 20 minutes
