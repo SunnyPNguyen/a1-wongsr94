@@ -71,7 +71,7 @@ Part 1: Tech Setup: 1 day
 
 Part 2: Pre-Assessment: 20 minutes
 
-Part 3: Readings: _ minutes
+Part 3: Readings: 30 minutes
 
 Part 4: Practice Data Dive: Pass 1: 4 hours
 
